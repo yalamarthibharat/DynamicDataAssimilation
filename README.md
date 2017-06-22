@@ -6,5 +6,12 @@ This project uses classical least squares approach to solve the dynamic data ass
  * Linear least squares
  * Non-linear leaast squares
  
-Dynamic Data Assimilation problem is solved by implementing it as a deterministic process and normal eqution of the problem is derived. The normal derived is solved by various computational methods. The computational methids implemented in this project are:
-
+Dynamic Data Assimilation problem is solved by implementing least squares as a deterministic process. Thus a dynamic data assimilation problem is converted into a least squares problem. The following computational methods are implemented in this project that can solve the least squares problem:
+ * LU decomposition
+ * QR decomposition
+ * Successive Over Relaxation
+ * Cholskey decomposition
+ * Jacobi method
+ * Singular Value Decomposition
+ * Gradient 
+ * Gauss Siedal
