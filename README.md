@@ -16,7 +16,7 @@ Dynamic Data Assimilation problem is solved by implementing least squares as a d
  * Gradient 
  * Gauss Seidal
  
- This project also includes senstivity analysis of the output obtained.Senstivity analysis is the study of how the uncertainty in the output of a mathematical model or system can be apportioned to different sources of uncertainty in its inputs. Senstivity analysis is done by generating the inverse problem and computational techniques are used to solve the problem. This project implemented Forward Senstivity approach to solve the problem. It converts the problem into a least squares probem and solves it. Two types of analysis in FSM is implemented in this project namely:
+ This project also includes senstivity analysis of the output obtained.Senstivity analysis is the study of how the uncertainty in the output of a mathematical model or system can be apportioned to different sources of uncertainty in its inputs. Senstivity analysis is done by generating the inverse problem and computational techniques are used to solve the problem. This project implemented Forward Senstivity approach to solve the problem. It converts the problem into a least squares probem and solves it. Two types of analysis in FSM are implemented namely:
  
   * First order FSM
   * Second order FSM
