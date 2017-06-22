@@ -15,3 +15,10 @@ Dynamic Data Assimilation problem is solved by implementing least squares as a d
  * Singular Value Decomposition
  * Gradient 
  * Gauss Seidal
+ 
+ This project also includes senstivity analysis of the output obtained.Senstivity analysis is the study of how the uncertainty in the output of a mathematical model or system can be apportioned to different sources of uncertainty in its inputs. Senstivity analysis is done by generating the inverse problem and computational techniques are used to solve the problem. This project impemented Forward Senstivity approach to solve the problem. It converts the problem into a least squares probem and solves it. Two types of analysis in FSM is implemented in this project namely:
+ 
+  * First order FSM
+  * Second order FSM
+
+This project also implemented Lyapnov Index. It is a number using which we can say that the model has Deterministic chaos or not. Even when the system is deterministic, the model and the solution doesn't match to the output expected. This random behaviour for a deterministic system is known as Deterministic chaos. 
