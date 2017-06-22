@@ -14,4 +14,4 @@ Dynamic Data Assimilation problem is solved by implementing least squares as a d
  * Jacobi method
  * Singular Value Decomposition
  * Gradient 
- * Gauss Siedal
+ * Gauss Seidal
