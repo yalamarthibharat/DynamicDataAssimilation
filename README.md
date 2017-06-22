@@ -5,4 +5,6 @@ This project uses classical least squares approach to solve the dynamic data ass
 
  * Linear least squares
  * Non-linear leaast squares
-Dynamic Data Assimilation problem is solved by implementing it as a deterministic process 
+ 
+Dynamic Data Assimilation problem is solved by implementing it as a deterministic process and normal eqution of the problem is derived. The normal derived is solved by various computational methods. The computational methids implemented in this project are:
+
